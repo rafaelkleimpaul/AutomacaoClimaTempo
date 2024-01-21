@@ -11,15 +11,15 @@ Este script em Python utiliza o Selenium para automatizar a extração de dados 
    ```bash
    git clone https://github.com/seu-usuario/AutomacaoClimaTempo.git
 
-1 - Acesse o diretório do projeto:
-   ```bash
-    cd seu-repositorio
+3 - Acesse o diretório do projeto:
+   
+      cd seu-repositorio 
 
-2 - Instale as dependências necessárias usando o pip:,
-
-    ```bash
-    pip install -r requirements.txt
-Isso instalará as bibliotecas necessárias, incluindo o Selenium e o ChromeDriver.
+4 - Instale as dependências necessárias usando o pip:
+      
+      pip install -r requirements.txt
+   
+   Isso instalará as bibliotecas necessárias, incluindo o Selenium e o ChromeDriver.
 
 
 ## Configuração
