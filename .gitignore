@@ -152,6 +152,18 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Arquivos temporários
+__pycache__/
+
+# Ambiente virtual
+venv/
+
+# Arquivo de log
+coletar_dados.log
+
+# Arquivo de saída CSV
+dados_climatempo.csv
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
