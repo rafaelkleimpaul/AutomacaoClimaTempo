@@ -14,12 +14,27 @@ Este script em Python utiliza o Selenium para automatizar a extração de dados 
 3 - Acesse o diretório do projeto:
    
       cd seu-repositorio 
+4 - Crie um ambiente virtual
+    Crie um ambiente virtual usando o seguinte comando:
 
-4 - Instale as dependências necessárias usando o pip:
+    ```bash
+    python -m venv venv
+    ```
+
+    Este comando criará uma pasta chamada `venv` que conterá o ambiente virtual.
+   
+
+5 - Instale as dependências necessárias usando o pip:
       
       pip install -r requirements.txt
    
    Isso instalará as bibliotecas necessárias, incluindo o Selenium e o ChromeDriver.
+
+6 - Desative o ambiente virtual quando não estiver mais trabalhando no projeto:
+
+    ```bash
+    deactivate
+    ```
 
 
 ## Configuração
